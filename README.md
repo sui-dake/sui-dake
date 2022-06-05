@@ -1,15 +1,16 @@
-### Hello!👋  I'm Sui
-#### < Front-End Developer >
+### <h1 align="center">Hello!👋  I'm Sui </h2>
+
+#### <h2 align="center">< Front-End Developer > <h2>
 
 
 Focused on development with React. I consider that capacity of wonder is one of my greatest assets. Enjoy meeting new stories and imagining situations, so I’m always pending of key details in problems. 
 
-Skills: REACT /  JS / HTML / CSS
+
 
 - 🔭 I’m currently working on React projects 
 - 😄 Pronouns: She/her 
 - ⚡ Fun fact: I believe in big transitions 
-- 📊 Background in International Business
+- 📊 Background on International Business
 
 ------
 
